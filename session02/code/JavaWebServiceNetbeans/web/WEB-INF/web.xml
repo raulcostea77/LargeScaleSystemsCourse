@@ -7,7 +7,6 @@
     <servlet-mapping>
         <servlet-name>TestController</servlet-name>
         <url-pattern>/Test</url-pattern>
-        <url-pattern>/Test/*</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
